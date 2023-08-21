@@ -4,5 +4,4 @@
 <h1 align="left"> Bem vindo ao meu perfil GITHUB ⌛ </h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-<img src="![image](https://github.com/savarisfelipe/savarisfelipe/assets/142799468/42c3f096-c358-4b01-b7e3-13bca6ea1ede)
-">
+
